@@ -1,0 +1,13 @@
+{
+  "framework": "android",
+  "dex_count": 2,
+  "native_library_count": 4,
+  "packer_suspected": null,
+  "traffic_visible": false,
+  "ssl_pinning_suspected": null,
+  "sign_present": null,
+  "runtime_crash": false,
+  "notes": [
+    "application network works normally"
+  ]
+}

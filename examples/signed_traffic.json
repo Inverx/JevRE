@@ -1,0 +1,13 @@
+{
+  "framework": "android",
+  "dex_count": 3,
+  "native_library_count": 2,
+  "packer_suspected": null,
+  "traffic_visible": true,
+  "ssl_pinning_suspected": false,
+  "sign_present": true,
+  "runtime_crash": false,
+  "notes": [
+    "Requests contain a changing signature parameter"
+  ]
+}

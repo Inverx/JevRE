@@ -1,0 +1,13 @@
+{
+  "framework": "android",
+  "dex_count": 1,
+  "native_library_count": 6,
+  "packer_suspected": true,
+  "traffic_visible": null,
+  "ssl_pinning_suspected": null,
+  "sign_present": null,
+  "runtime_crash": null,
+  "notes": [
+    "Known application protection artifacts were observed"
+  ]
+}
